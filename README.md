@@ -62,6 +62,19 @@ On the home screen, you can view Microsoft 365 Service Health, subscribe to serv
 ![Power App - Microsoft 365 Service Health](/images/M365_App_NotificationSettings_Add_TeamsChannels.png)
 
 # Installation Instructions
-1. Download Solution ZIP File
-2. Import Solution into environment with Dataverse
-3. Configure
+## Licensing
+Premium licensing in Power Platform is required for this solution to function since it utilizes Dataverse and other premium connectors. You will need Power Automate per user or Power Automate per flow AND either Power Apps per User, App Passes, or Pay as you go subscription.
+
+## 1. Create Originator ID for Actionable Emails
+You'll need to create an originator ID from the **[Actionable Email Developer Dashboard](https://outlook.office.com/connectors/oam/publish)**. This will allow you to send actionalable messages within your organization.
+
+## 2. Create an App Registration in Azure AD
+1. Go to [Azure Active Directory Admin Center](https://aad.portal.azure.com/)
+2. Select **App Registrations**
+3. Select **New Registration**. 
+    1. Name the App Registration. Ex: *Microsoft 365 Service Health*
+    2. Leave everything else as the default settings. Select **Register**
+    3. Grant the App Registration the following **Microsoft Graph - _Application_** API Permissions:
+        - ServiceHealth.ReadAll
+    4. Once granted, **_Grant admin consent_**.
+    5. Create a client secret and save the **secret value**.
