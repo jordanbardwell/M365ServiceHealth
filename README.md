@@ -78,3 +78,18 @@ You'll need to create an originator ID from the **[Actionable Email Developer Da
         - ServiceHealth.ReadAll
     4. Once granted, **_Grant admin consent_**.
     5. Create a client secret and save the **secret value**.
+
+## 3. Import Solution
+1. Download the un-managed zip file
+2. Import the solution into your environment.
+    - Connection References:
+      - For Microsoft Teams and Outlook, use an account you want to send the notifications from. This account will need to be licensed for Teams and Outlook. **This account will also need to be apart of a Team in Teams if you want to use the Teams Channel functionality.**
+      - For Dataverse, use either an application user or regular user connection. The account used will need to be given the **M365 Service Health User** Custom Security Role.
+    - Set the following environment variables:
+      - **App_M365ServiceHealth_ClientID:** *Use the Application(client) ID from the App Registration you created*
+      - **App_M365ServiceHealth_ClientSecret:** *Use the client secret you created*
+      - **App_M365ServiceHealth_TenantID:** *Use your tenant id*
+      - **M365 Service Health - OriginatorID:** *Originator ID from [Actionable Email Developer Dashboard](https://outlook.office.com/connectors/oam/publish)*
+
+ 3. All flows should be turned on after the import is complete.
+ 4. Run the Microsoft 365 Service Health app and verify functionality.
