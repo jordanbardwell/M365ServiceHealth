@@ -7,7 +7,7 @@ The UI was built using the [Power Platform Creator Kit](https://docs.microsoft.c
 
 ![Power App - Microsoft 365 Service Health](/images/M365_App_Overview.png)
 
-Jump to [Installation Instructions](/README.md#installation-instructions)
+Jump to [Installation Instructions](#installation-instructions)
 
 [Download Solution](https://github.com/jordanbardwell/M365ServiceHealth/raw/main/Microsoft365ServiceHealth_1_1_0_0.zip)
 
