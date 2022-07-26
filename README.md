@@ -1,5 +1,5 @@
 # Overview
-This is a Power Platform solution that provides Outlook and Teams adaptive card alerts for Microsoft 365 Service Health and Active issues. Adaptive card alerts can be sent to users via Outlook or Teams. Alerts can also be posted to Teams channels.
+This is a Power Platform solution that provides Outlook and Teams adaptive card alerts for Microsoft 365 Service Health and Active issues. Adaptive card alerts can be sent to users via Outlook or Teams. Alerts can also be posted automatically to Teams channels.
 
 The UI was built using the Power CAT Creator Kit. Link: https://docs.microsoft.com/en-us/power-platform/guidance/creator-kit/overview
 
