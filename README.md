@@ -13,6 +13,18 @@ The UI was built using the Power CAT Creator Kit. Link: https://docs.microsoft.c
 - Receive adaptive card alerts via Outlook and Teams
 - Supports Teams Channels
 
+## Solution Specifications
+- 10 Cloud flows
+- 4 Dataverse Tables
+- 4 Environment Variables
+- 1 Custom Security Role
+- 3 Connection References
+
+## Requirements
+- Premium connectors are used in this solution, so you'll need premium Power Apps/Automate licensing.
+  - Power Automate per user or Power Automate per flow
+  - Power Apps per user, Power Apps per app, or Power Apps Pay-As-You-Go
+
 ## Notifications
 Below are the different types of adaptive card notifications.
 ### Service Health Alert
