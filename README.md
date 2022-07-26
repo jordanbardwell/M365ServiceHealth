@@ -7,6 +7,8 @@ The UI was built using the Power CAT Creator Kit. Link: https://docs.microsoft.c
 
 ![Power App - Microsoft 365 Service Health](/images/M365_App_Overview.png)
 
+Jump to [Installation Instructions](/README.md#installation-instructions)
+
 ## Features
 - Subscribe to individual Microsoft 365 Services for health/issue alerts
 - View Service Health
@@ -56,3 +58,5 @@ On the home screen, you can view Microsoft 365 Service Health, subscribe to serv
 
 ### Add Teams Channels
 ![Power App - Microsoft 365 Service Health](/images/M365_App_NotificationSettings_Add_TeamsChannels.png)
+
+# Installation Instructions
