@@ -93,3 +93,6 @@ You'll need to create an originator ID from the **[Actionable Email Developer Da
 
  3. All flows should be turned on after the import is complete.
  4. Run the Microsoft 365 Service Health app and verify functionality.
+
+# Sharing the Power App
+When sharing the app, make sure to assign the user the **M365 Service Health User** security role.
