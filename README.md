@@ -81,6 +81,9 @@ You'll need to create an originator ID from the **[Actionable Email Developer Da
     4. Once granted, **_Grant admin consent_**.
     5. Create a client secret and save the **secret value**.
 
+## 3. Import Creator Kit
+1. Download and Import [Power Platform Creator Kit](https://docs.microsoft.com/en-us/power-platform/guidance/creator-kit/overview)
+
 ## 3. Import Solution
 1. Download the un-managed zip file
 2. Import the solution into your environment.
