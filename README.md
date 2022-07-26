@@ -60,3 +60,6 @@ On the home screen, you can view Microsoft 365 Service Health, subscribe to serv
 ![Power App - Microsoft 365 Service Health](/images/M365_App_NotificationSettings_Add_TeamsChannels.png)
 
 # Installation Instructions
+1. Download Solution ZIP File
+2. Import Solution into environment with Dataverse
+3. Configure
