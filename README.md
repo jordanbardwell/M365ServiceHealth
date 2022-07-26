@@ -9,6 +9,8 @@ The UI was built using the Power CAT Creator Kit. Link: https://docs.microsoft.c
 
 Jump to [Installation Instructions](/README.md#installation-instructions)
 
+[Download Solution](https://github.com/jordanbardwell/M365ServiceHealth/raw/main/Microsoft365ServiceHealth_1_1_0_0.zip)
+
 ## Features
 - Subscribe to individual Microsoft 365 Services for health/issue alerts
 - View Service Health
