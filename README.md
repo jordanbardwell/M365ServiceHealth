@@ -27,6 +27,8 @@ Jump to [Installation Instructions](/README.md#installation-instructions)
 - Premium connectors are used in this solution, so you'll need premium Power Apps/Automate licensing.
   - Power Automate per user or Power Automate per flow
   - Power Apps per user, Power Apps per app, or Power Apps Pay-As-You-Go
+- Azure App Registration
+  - ServiceHealth.ReadAll
 
 ## Notifications
 Below are the different types of adaptive card notifications.
