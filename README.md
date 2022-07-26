@@ -5,6 +5,7 @@ The UI was built using the Power CAT Creator Kit. Link: https://docs.microsoft.c
 
 *Note: Adaptive Cards sent via email will only render in Outlook (Desktop/Mobile/Web).*
 
+![Power App - Microsoft 365 Service Health](/images/M365_App_Overview.png)
 
 ## Features
 - Subscribe to individual Microsoft 365 Services for health/issue alerts
