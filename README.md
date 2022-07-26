@@ -7,7 +7,7 @@ This is a Power Platform solution that provides Outlook and Teams adaptive card 
 ## Features
 ### Home Screen
 On the home screen, you can view Microsoft 365 Service Health, subscribe to service health for alerts, and view active issues.
-![Power App - Microsoft 365 Service Health](/../assets/images/M365_App_Overview.png)
+![Power App - Microsoft 365 Service Health](/images/M365_App_Overview.png)
 
 ### Viewing Active Issue
 
