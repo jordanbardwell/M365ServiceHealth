@@ -13,6 +13,14 @@ The UI was built using the Power CAT Creator Kit. Link: https://docs.microsoft.c
 - Receive adaptive card alerts via Outlook and Teams
 - Supports Teams Channels
 
+## Notifications
+Below are the different types of adaptive card notifications.
+### Service Health Alert
+![Service Health Alert](/images/M365_Teams_ServiceHealthAlert.png)
+
+### Active Issue Update
+![Active Issue Update](/images/M365_Teams_ActiveIssueUpdate.png)
+
 ## Home Screen
 On the home screen, you can view Microsoft 365 Service Health, subscribe to service health for alerts, and view active issues.
 ![Power App - Microsoft 365 Service Health](/images/M365_App_Overview.png)
